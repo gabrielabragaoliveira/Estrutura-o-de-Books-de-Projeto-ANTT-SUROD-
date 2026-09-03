@@ -218,7 +218,7 @@ def render_renomeador():
     p_proj = tipos_projeto[w_proj]
     p_classe = classes_doc[w_classe]
     p_disc = disciplinas[w_disc]
-    p_seq = w_seq.strip().zfill(4)[:4] 
+    p_seq = w_seq.strip().zfill(3)[:3] 
     p_rev = w_rev.strip().upper().zfill(2)[:2]
     p_ext = w_ext
 
