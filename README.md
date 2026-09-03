@@ -15,11 +15,6 @@ Através de um menu lateral de navegação integrado, o usuário tem acesso a du
 
 ## 📁 Estrutura do Repositório
 
-*   `app_surod_completo.py`: Código-fonte principal contendo a interface e a lógica das duas ferramentas unificadas.
+*   `app_surod.py`: Código-fonte principal contendo a interface e a lógica das duas ferramentas unificadas.
 *   `requirements.txt`: Arquivo de dependências para o ambiente de execução.
 
-## 💻 Como executar localmente
-
-1. Faça o clone deste repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
